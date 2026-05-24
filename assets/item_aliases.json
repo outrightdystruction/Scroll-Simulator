@@ -86,6 +86,7 @@
   ["frozen skates", "ice skates", "iceskates", "gift of ice"],
   
 
+  ["ancient uprooted blade", "anc uprooted blade", "ancient uproot", "anc uproot"],
   ["aqrabuamelu sabre", "aqra sabre"],
   ["crystal aqrabuamelu sabre", "crystal aqra sabre"],
   ["champions lance", "champion lance", "champ lance", "champions spear", "champion spear", "champ spear"],
@@ -100,6 +101,7 @@
   ["valkyrie edge", "valk edge"],
   ["valkyrie hammer", "valk hammer"],
   ["mushroom sword", "mush sword"],
+  ["mushroom club", "mush club"],
   ["frozen mushroom sword", "frozen mush sword"],
   ["soulburn edge", "sb edge"],
   ["haunted soulburn edge", "hsb"],
@@ -132,6 +134,7 @@
 
   ["champions aegis", "champion aegis", "champ aegis", "champions shield", "champion shield", "champ shield"],
   ["golden dragon shield", "gdrag shield", "gd shield"],
+  ["mushroom shield", "mush shield"],
   ["sigil of malisis", "sigil"],
   ["haunted sigil of malisis", "haunted sigil"],
 
@@ -144,6 +147,7 @@
   ["malichs greaves", "malich greaves", "malichs boots", "malich boots"],
   ["pumpkin brute boots", "pbrute boots"],
 
+  ["ancient fungi staff", "anc fungi staff", "ancient fungi", "anc fungi"],
   ["astrologists scepter", "astrologist scepter", "astrologist staff", "astro staff", "astro scepter", "astro"],
   ["blistergrass staff", "blistergrass"],
   ["brain staff", "brainstaff"],
@@ -196,10 +200,11 @@
   ["tomestone", "tombstone","tome stone", "tomb stone"],
   ["haunted tomestone", "haunted tombstone", "haunted tome stone", "haunted tomb stone"],
 
+  ["ancient root hatchet", "anc root hatchet"],
   ["champions chakram", "champion chakram", "champ chakram", "champions dagger", "champion dagger", "champ dagger"],
   ["eyeball of reckoning ultradagger", "eyeball of reckoning ultra dagger", "eyeball of reckoning dagger", "eyeball of reckoning", "eor ultradagger", "eor ultra dagger",   "eor dagger", "ultradagger", "ultra dagger", "eor"],
   ["forgotten dagger", "forg dagger"],
-  ["grizzly hatchet", "hatchet", "grizzly dagger", "grizz dagger", "grizz hatchet"],
+  ["grizzly hatchet", "grizzly dagger", "grizz dagger", "grizz hatchet"],
   ["golden dragon dagger", "gdrag dagger", "gd dagger"],
   ["gravediggers trowel", "gravedigger trowel", "gd trowel", "trowel"],
   ["mushroom dagger", "mush dagger"],
@@ -215,7 +220,8 @@
   ["cleaver", "meat cleaver"],
 
   ["champions tambourine", "champion tambourine", "champ tambourine", "champions drum", "champion drum", "champ drum"],
-  
+
+  ["ancient root bow", "anc root bow"],
   ["auktufitis ballista", "auks ballista", "auk ballista", "ballista","auk ball"],
   ["champions bow", "champion bow", "champ bow"],
   ["dragon bow", "drag bow"],
