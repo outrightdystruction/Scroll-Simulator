@@ -1,6 +1,6 @@
 [
-  ["cursed def scroll", "cdef", "cursed def", "cursed armor", "cdef stack", "cdefense"],
-  ["cursed atk scroll", "catk", "cursed atk", "cursed weapon", "catk stack", "cattack"],
+  ["cursed def scroll", "cdef", "cursed def", "cursed defense", "cursed armor", "cdef stack", "cdefense"],
+  ["cursed atk scroll", "catk", "cursed atk", "cursed attack", "cursed weapon", "catk stack", "cattack"],
   ["cursed headgear scroll", "chg", "cursed headgear", "cursed hg", "chg stack", "cheadgear", "cursed head gear"],
   ["holy scroll", "holy", "holies"],
   ["undo scroll", "undo"],
